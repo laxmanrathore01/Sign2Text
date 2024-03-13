@@ -20,7 +20,7 @@ cd Sign2Text
 ```
 
 **Step 2: Install Dependencies**
-Ensure you have Python installed on your system. Then, install the required Python libraries using pip:
+Ensure you have Python installed on your system. Then install the required Python libraries using pip:
 ```bash
 pip install opencv-python mediapipe tensorflow Flask
 ```
